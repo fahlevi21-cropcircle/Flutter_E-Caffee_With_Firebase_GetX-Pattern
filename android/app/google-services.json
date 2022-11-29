@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868012377934",
+    "firebase_url": "https://my-caffee-cropcircle-id-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-caffee-cropcircle-id",
+    "storage_bucket": "my-caffee-cropcircle-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868012377934:android:f756165092b385898f401f",
+        "android_client_info": {
+          "package_name": "com.example.my_caffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868012377934-lnalgui0n644d9premc8ellgq9jfj84o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzHpJBKe_T0UW9-34PPsrHY4JVRzy_rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868012377934-lnalgui0n644d9premc8ellgq9jfj84o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868012377934-ns28g874n7m7b67n4qdpek63cs0ra0g2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myCaffee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
